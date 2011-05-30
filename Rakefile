@@ -12,7 +12,7 @@ spec = Gem::Specification.new do |s|
 
   # Change these as appropriate
   s.name              = "rack-directory-index"
-  s.version           = "0.1.0"
+  s.version           = "0.1.1"
   s.summary           = "Acts like DirectoryIndex is set to index.html for all public folders in Heroku."
   s.author            = "Craig Smith"
   s.email             = "craigmarksmith@hotmail.com"
